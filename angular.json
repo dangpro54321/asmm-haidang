@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/css/styles.css","src/css/bootstrap.css","src/css/font-awesome.css","src/css/skdslider.css"
             ],
             "scripts": []
           },
